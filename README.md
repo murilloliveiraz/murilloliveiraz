@@ -11,7 +11,7 @@ I am a programming student at SENAI - Osasco
 
 🌱 My name is _Murillo Oliveira_. I currently live in São Paulo - Brazil.
 
-🔭 I'm currently learning HTML, CSS and Java.
+🔭 I'm currently learning HTML, CSS, Java, javaScript, TypeScript, Node.js e React.js with focus on web development.
 
 ---
 
