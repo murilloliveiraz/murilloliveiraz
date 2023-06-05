@@ -3,9 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Murillo+Oliveira;I'm+17+years+old;I'm+from+Brazil;I'm+Studying+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=murilloliveiraz&bg_color=0d1117&color=4682B4&line=B0C4DE&point=1E90FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=murilloliveiraz&bg_color=0d1117&color=4682B4&line=B0C4DE&point=1E90FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center">  
